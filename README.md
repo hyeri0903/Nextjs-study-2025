@@ -1,2 +1,2 @@
 # Nextjs-study-2025
-nextjs study
+nextjs document: https://nextjs.org/docs/app/building-your-application
